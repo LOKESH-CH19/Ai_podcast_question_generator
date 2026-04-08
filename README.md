@@ -1,7 +1,3 @@
-# Ai_podcast_question_generator
-An AI-powered tool designed to generate insightful and engaging interview questions for podcasters. By analyzing guest bios, topics, or previous transcripts, this application automates the research process to help creators host more meaningful conversations.
-
-
 # 🎙️ AI-Powered Podcast Question Generator
 
 An intelligent ML-powered system that generates **deep, personalized, and context-aware podcast interview questions** for any public figure in seconds.
