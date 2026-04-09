@@ -1,0 +1,4 @@
+Day 1-08/04/2026
+    -> Problem Statement was fixed,go through some research on how to build it .Initially planned some structured layout.
+Day 2 ->09/04/2026
+    ->Search for datasets and explore what type of datasets required how to use them. installed requirements and deep research on datasets.
